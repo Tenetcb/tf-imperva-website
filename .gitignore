@@ -1,0 +1,8 @@
+# IDE
+.vs
+.idea/
+
+# Terraform stuff
+*.tfstate*
+.terraform.lock.hcl
+.terraform/
